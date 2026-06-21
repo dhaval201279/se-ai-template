@@ -133,23 +133,6 @@ All examples are anonymised. The failure patterns are real.
 
 This repo is the living artefact of a multi-week public series on AI-augmented engineering for fintech and distributed
 systems practitioners.
-
-Periodically:
-
-- One blog post on [dhaval-shah.com](https://dhaval-shah.com) - deep-dive with post-mortems, worked examples, and the "
-  where AI gets it wrong" section
-- New templates added to this repo
-- LinkedIn and Twitter threads with the compressed, shareable version
-
-| Week | Topic                                            | Blog                              | Templates                      |
-|------|--------------------------------------------------|-----------------------------------|--------------------------------|
-| 1    | AI-Augmented Architecture Decisions              | [Read →](https://dhaval-shah.com) | [adr/](./adr/)                 |
-| 2    | AI-Augmented Performance Engineering             | Coming                            | [performance/](./performance/) |
-| 3    | AI-Augmented Database Optimisation               | Coming                            | [database/](./database/)       |
-| 4    | AI-Augmented SRE & Incident Response             | Coming                            | [sre/](./sre/)                 |
-| 5    | AI-Augmented Coding & Code Review                | Coming                            | [coding/](./coding/)           |
-| 6    | AI-Augmented FinOps & Cost Engineering           | Coming                            | [finops/](./finops/)           |
-
 ---
 
 ## Contributing
