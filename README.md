@@ -24,14 +24,14 @@ is in the questions the AI output forces you to answer honestly.
 
 ## The six disciplines
 
-| # | Discipline                                    | Templates     | Status         | Blog post                                                                                                      |
-|---|-----------------------------------------------|---------------|----------------|----------------------------------------------------------------------------------------------------------------|
-| 1 | [Architecture Decision Records (ADR)](./adr/) | 5 templates   | ✅ Available    | [Three Fintech Architecture Post-Mortems: What AI-Augmented Review Would Have Caught](https://dhaval-shah.com/fintech-post-mortem-ai-review/) |
-| 2 | [Performance Engineering](./performance/)     | Coming Soon   | 🔜 In progress | JVM, GC tuning, flame graph analysis                                                                           |
-| 3 | [Database Optimisation](./database/)          | Coming Soon |  | Query plans, index strategy, storage models                                                                    |
-| 4 | [Site Reliability Engineering](./sre/)        | Coming Soon |  | Post-mortems, runbooks, SLO design                                                                             |
-| 5 | [AI-Augmented Coding](./coding/)              | Coming Soon | | Code review, refactoring, test generation                                                                      |
-| 6 | [FinOps & Cost Engineering](./finops/)        | Coming Soon | | Cloud cost, provisioning, unit economics                                                                       |
+| # | Discipline                                            | Templates              | Status         | Blog post                                                                                                                                     |
+|---|-------------------------------------------------------|------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | [Architecture Decision Records (ADR)](./adr/)         | 5 templates            | ✅ Available    | [Three Fintech Architecture Post-Mortems: What AI-Augmented Review Would Have Caught](https://dhaval-shah.com/fintech-post-mortem-ai-review/) |
+| 2 | [Performance Engineering](./performance-engineering/) | GC Comparison Template | ✅ Available | []()                                                                                                                                          |
+| 3 | [Database Optimisation](./database/)                  | Coming Soon            | 🔜 In progress | Query plans, index strategy, storage models                                                                                                   |
+| 4 | [Site Reliability Engineering](./sre/)                | Coming Soon            |  | Post-mortems, runbooks, SLO design                                                                                                            |
+| 5 | [AI-Augmented Coding](./coding/)                      | Coming Soon            | | Code review, refactoring, test generation                                                                                                     |
+| 6 | [FinOps & Cost Engineering](./finops/)                | Coming Soon            | | Cloud cost, provisioning, unit economics                                                                                                      |
 
 Star this repo to follow the series. A new discipline will be added in coming weeks.
 
@@ -141,15 +141,14 @@ Periodically:
 - New templates added to this repo
 - LinkedIn and Twitter threads with the compressed, shareable version
 
-| Week | Topic                                                | Blog                              | Templates                      |
-|------|------------------------------------------------------|-----------------------------------|--------------------------------|
-| 1    | AI-Augmented Architecture Decisions                  | [Read →](https://dhaval-shah.com) | [adr/](./adr/)                 |
-| 2    | AI-Augmented JVM Performance Engineering             | Coming                            | [performance/](./performance/) |
-| 3    | AI-Augmented Database Optimisation                   | Coming                            | [database/](./database/)       |
-| 4    | AI-Augmented SRE & Incident Response                 | Coming                            | [sre/](./sre/)                 |
-| 5    | AI-Augmented Coding & Code Review                    | Coming                            | [coding/](./coding/)           |
-| 6    | AI-Augmented FinOps & Cost Engineering               | Coming                            | [finops/](./finops/)           |
-| 7–9  | Cross-pillar: Observability, Limits of AI, Community | Coming                            | TBD                            |
+| Week | Topic                                            | Blog                              | Templates                      |
+|------|--------------------------------------------------|-----------------------------------|--------------------------------|
+| 1    | AI-Augmented Architecture Decisions              | [Read →](https://dhaval-shah.com) | [adr/](./adr/)                 |
+| 2    | AI-Augmented Performance Engineering             | Coming                            | [performance/](./performance/) |
+| 3    | AI-Augmented Database Optimisation               | Coming                            | [database/](./database/)       |
+| 4    | AI-Augmented SRE & Incident Response             | Coming                            | [sre/](./sre/)                 |
+| 5    | AI-Augmented Coding & Code Review                | Coming                            | [coding/](./coding/)           |
+| 6    | AI-Augmented FinOps & Cost Engineering           | Coming                            | [finops/](./finops/)           |
 
 ---
 
