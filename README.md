@@ -24,14 +24,14 @@ is in the questions the AI output forces you to answer honestly.
 
 ## The six disciplines
 
-| # | Discipline                                            | Templates              | Status          | Blog post                                                                                                                                         |
-|---|-------------------------------------------------------|------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | [Architecture Decision Records (ADR)](./adr/)         | 5 templates            | ✅ Available     | [Three Fintech Architecture Post-Mortems: What AI-Augmented Review Would Have Caught](https://dhaval-shah.com/fintech-post-mortem-ai-review/)     |
-| 2 | [Performance Engineering](./performance-engineering/) | GC Comparison Template | ✅ Available     | [The GC Summary Report Wasn't Wrong - It Just Wasn't Complete](https://www.dhaval-shah.com/gc-comparison-ai-review/)                              |
-| 3 | [Database Optimisation](./database/)                  | Coming Soon            | ✅ Available     | [Same JSON Storage Problem, Different Database - What Postgres Does Differently](https://www.dhaval-shah.com/db-optimization-ai-review/)          |
-| 4 | [Site Reliability Engineering](./sre/)                | Coming Soon            | ✅ Available     | [A Black Friday Incident Took 9 Days to Resolve - Here's the Process That Would Have Changed That](https://www.dhaval-shah.com/sre-gc-ai-review/) |
-| 5 | [AI-Augmented Coding](./coding/)                      | Coming Soon            |                 | Code review, refactoring, test generation                                                                                                         |
-| 6 | [FinOps & Cost Engineering](./finops/)                | Coming Soon            | 🔜 In progress  | Cloud cost, provisioning, unit economics                                                                                                          |
+| # | Discipline                                            | Templates                               | Status          | Blog post                                                                                                                                         |
+|---|-------------------------------------------------------|-----------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | [Architecture Decision Records (ADR)](./adr/)         | 5 templates                             | ✅ Available     | [Three Fintech Architecture Post-Mortems: What AI-Augmented Review Would Have Caught](https://dhaval-shah.com/fintech-post-mortem-ai-review/)     |
+| 2 | [Performance Engineering](./performance-engineering/) | GC Comparison Template                  | ✅ Available     | [The GC Summary Report Wasn't Wrong - It Just Wasn't Complete](https://www.dhaval-shah.com/gc-comparison-ai-review/)                              |
+| 3 | [Database Optimisation](./database/)                  | DB Optimization Template                | ✅ Available     | [Same JSON Storage Problem, Different Database - What Postgres Does Differently](https://www.dhaval-shah.com/db-optimization-ai-review/)          |
+| 4 | [Site Reliability Engineering](./sre/)                | SRE Template along with Claude Workflow | ✅ Available     | [A Black Friday Incident Took 9 Days to Resolve - Here's the Process That Would Have Changed That](https://www.dhaval-shah.com/sre-gc-ai-review/) |
+| 5 | [AI-Augmented Coding](./coding/)                      | Coming Soon                             |                 | Code review, refactoring, test generation                                                                                                         |
+| 6 | [FinOps & Cost Engineering](./finops/)                | Coming Soon                             | 🔜 In progress  | Cloud cost, provisioning, unit economics                                                                                                          |
 
 Star this repo to follow the series. A new discipline will be added in coming weeks.
 
